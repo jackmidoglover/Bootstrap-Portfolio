@@ -1,0 +1,52 @@
+/* Portfolio */
+
+.imageLink {
+    width: 265px;
+    height: 200px;
+    /* background-image: url("../images/portfolioicon.png");
+    background-size: cover; */
+    margin-left: 5px; 
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+#a {
+    background-image: url("../images/tokipic1.jpg");
+    background-size: cover;
+}
+
+#b {
+    background-image: url("../images/tokipic2.jpg");
+    background-size: cover;
+}
+
+#c {
+    background-image: url("../images/birds.jpg");
+    background-size: cover;
+}
+
+#d {
+    background-image: url("../images/oranges.jpg");
+    background-size: cover;
+}
+
+#e {
+    background-image: url("../images/photocollage.jpg");
+    background-size: cover;
+}
+
+/* Image Banners */
+h4 {
+    width: 263px;
+    height: 60px;
+    background-color: #4ba;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    padding: 16px 0;
+    letter-spacing: 3px;
+    position: relative;
+    left: -19px;
+    top: 105px;
+    
+}
