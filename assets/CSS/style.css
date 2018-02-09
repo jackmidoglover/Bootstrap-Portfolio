@@ -32,7 +32,17 @@ h3 {
     font-weight: 700;
     font-size: 48px;
     padding: 25px 10px;
-    font-family: 'Georgia', 'Times New Roman', Times, serif; 
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    position: relative;
+    animation-name: swoop;
+    animation-duration: 6s; 
+}
+
+@keyframes swoop {
+    0% {left: -475px;}
+    50% {left:-237px;}
+    100% {left: 0;}
+
 }
 
 nav, #header, .navbar-default, .navbar{
