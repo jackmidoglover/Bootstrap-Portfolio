@@ -40,7 +40,6 @@ h3 {
 
 @keyframes swoop {
     0% {left: -475px;}
-    50% {left:-237px;}
     100% {left: 0;}
 
 }
